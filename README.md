@@ -85,7 +85,6 @@ The website is designed to provide a smooth experience on:
 
 👉 **[Click here to visit The Bite Buzz]( https://rishi001yadav.github.io/Restaurent-HTML-CSS./)**
 
-> Replace `#` above with your deployed website link.
 
 ## 👨‍💻 Author
 
@@ -93,4 +92,3 @@ The website is designed to provide a smooth experience on:
 
 > A beginner-friendly restaurant website created to practice responsive frontend development using HTML and CSS.
 
-Click here to visit our site  https://rishi001yadav.github.io/Restaurent-HTML-CSS./
